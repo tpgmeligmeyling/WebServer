@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1344457320 source:c:\users\thomas\documents\c++\tcpip\tcpserver\main.cpp
+	<iostream>
+	<winsock2.h>
+	<string>
+	<windows.h>
+
